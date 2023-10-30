@@ -1,3 +1,8 @@
+
+![banner](https://github.com/jesib03/jesib03/assets/106719269/f7b0031c-9106-41b0-9e8f-b11966364c81)
+
+
+
 ### HOLA 👋
 
 # Soy Jesica Brito - Full Stack Developer
