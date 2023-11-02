@@ -31,7 +31,7 @@ Mi objetivo es convertirme en una programadora de excelencia, continuar aprendie
 Aquí tienes una lista de algunas de las tecnologías con las que trabajo:
 
 - JavaScript
-- React
+- React <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 - Redux
 - Next.js
 - Express
